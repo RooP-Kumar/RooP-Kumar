@@ -1,7 +1,8 @@
 ### Hi there, I am Roop 👋
 
-## I am a Developer, Blogger and Student.
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69110669/125151755-175fcc00-e166-11eb-8825-023dcb328c9a.gif" width="500" height="320" />
 
+## I am a Developer, Blogger and Student.
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Machine Learning
