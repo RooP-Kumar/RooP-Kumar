@@ -38,6 +38,9 @@
 ---
 
 <details>
+ <summary>:zap: GitHub Stats</summary>
+ 
+  <img align="left" alt="RooP-Kumar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RooP-Kumar&show_icons=true&hide_border=true" />
  
  </details>
 
