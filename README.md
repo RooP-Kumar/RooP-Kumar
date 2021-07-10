@@ -36,13 +36,19 @@
 <br />
 
 ---
-
-<details>
  <summary>:zap: GitHub Stats</summary>
+<br /> 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RooP-Kumar&show_icons=true&locale=en" alt="RooP-Kumar" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RooP-Kumar&show_icons=true&locale=en&layout=compact" alt="RooP-Kumar" /></p>
  
-  <img align="left" alt="RooP-Kumar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RooP-Kumar&show_icons=true&hide_border=true" />
+ <br />
  
- </details>
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RooP-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="RooP-Kumar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RooP-Kumar&theme=nord&row=2&column=4" alt="RooP-Kumar" /></a> </p>
+
 
 [linkedin]: https://www.linkedin.com/in/roop-kumar-71a084193/
 [website]: https://arccoding.blogspot.com/
