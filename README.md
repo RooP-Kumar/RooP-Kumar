@@ -41,7 +41,7 @@
 ---
  <summary>:zap: GitHub Stats</summary>
 <br /> 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=RooP-Kumar&show_icons=true&locale=en" alt="RooP-Kumar" /></p>
+ <p><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=RooP-Kumar&show_icons=true&locale=en" alt="RooP-Kumar" /></p>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RooP-Kumar&show_icons=true&locale=en&layout=compact" alt="RooP-Kumar" /></p>
  
  <br />
