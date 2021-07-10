@@ -1,6 +1,6 @@
 ### Hi there, I am Roop 👋
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69110669/125151755-175fcc00-e166-11eb-8825-023dcb328c9a.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69110669/125151894-1c714b00-e167-11eb-939f-5337b2a3a73d.gif" width="500" height="320" />
 
 ## I am a Developer, Blogger and Student.
 
@@ -32,6 +32,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+<br />
+<br />
+
+---
+
+<details>
+ 
+ </details>
 
 [linkedin]: https://www.linkedin.com/in/roop-kumar-71a084193/
 [website]: https://arccoding.blogspot.com/
