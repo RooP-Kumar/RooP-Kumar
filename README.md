@@ -2,8 +2,7 @@
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69110669/125151894-1c714b00-e167-11eb-939f-5337b2a3a73d.gif" width="500" height="320" />
 
-## I am a Developer, Blogger and Student.
-
+## I am an Android Developer.
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Open Source
