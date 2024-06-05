@@ -3,8 +3,8 @@
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/69110669/125151894-1c714b00-e167-11eb-939f-5337b2a3a73d.gif" width="500" height="320" />
 
 ## I am an Android Developer.
-- 🔭 I’m currently working on :-> [https://github.com/RooP-Kumar/Accounts][Account]
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on :-> [Account](https://github.com/RooP-Kumar/Accounts)
+- 🌱 I’m currently learning Backend on Java Spring Boot.
 - 👯 I’m looking to collaborate on Open Source
 - 💬 Ask me about Android Development and python
 - 📫 How to reach me: Gmail :- roopkm12@gmail.com
